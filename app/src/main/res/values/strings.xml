@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Story</string>
+    <string name="next">NEXT</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="what_is_your_name">What is your name ?</string>
+    <string name="story_mode">Story mode</string>
+</resources>
